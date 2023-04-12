@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/oem/pcd2pgm/subscribe_pcd/install/setup.sh

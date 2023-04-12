@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++14 -g  -shared -Wl,-soname,libgmockd.so -o ../lib/libgmockd.so CMakeFiles/gmock.dir/src/gmock-all.cc.o  -Wl,-rpath,/home/oem/pcd2pgm/subscribe_pcd/build/gtest/lib ../lib/libgtestd.so -lpthread 

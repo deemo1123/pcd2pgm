@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/oem/pcd2pgm/pcload/install/setup.sh

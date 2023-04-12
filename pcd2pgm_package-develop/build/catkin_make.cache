@@ -1,0 +1,2 @@
+pcd2pgm
+-DCATKIN_DEVEL_PREFIX=/home/oem/pcd2pgm/pcd2pgm_package-develop/devel -DCMAKE_INSTALL_PREFIX=/home/oem/pcd2pgm/pcd2pgm_package-develop/install -G Unix Makefiles

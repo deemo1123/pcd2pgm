@@ -1,0 +1,2 @@
+pcload
+-DCATKIN_DEVEL_PREFIX=/home/oem/pcd2pgm/pcload/devel -DCMAKE_INSTALL_PREFIX=/home/oem/pcd2pgm/pcload/install -G Unix Makefiles

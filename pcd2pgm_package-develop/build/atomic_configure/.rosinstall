@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/oem/pcd2pgm/pcd2pgm_package-develop/devel/setup.sh

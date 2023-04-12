@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++14 -g  -shared -Wl,-soname,libgtest_maind.so -o ../lib/libgtest_maind.so CMakeFiles/gtest_main.dir/src/gtest_main.cc.o  -Wl,-rpath,/home/oem/pcd2pgm/subscribe_pcd/build/gtest/lib ../lib/libgtestd.so -lpthread 
